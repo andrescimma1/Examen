@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Cimma\Examen\TiendaDeRopa\TiendaDeRopa\bin\Debug\TiendaDeRopa.exe.config
+C:\Users\User\Desktop\Cimma\Examen\TiendaDeRopa\TiendaDeRopa\bin\Debug\TiendaDeRopa.exe
+C:\Users\User\Desktop\Cimma\Examen\TiendaDeRopa\TiendaDeRopa\bin\Debug\TiendaDeRopa.pdb
+C:\Users\User\Desktop\Cimma\Examen\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cimma\Examen\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cimma\Examen\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.exe
+C:\Users\User\Desktop\Cimma\Examen\TiendaDeRopa\TiendaDeRopa\obj\Debug\TiendaDeRopa.pdb
